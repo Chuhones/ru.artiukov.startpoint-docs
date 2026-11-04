@@ -1,0 +1,32 @@
+:root { color-scheme: light; font: 112.5%/1.65 system-ui, sans-serif; color: #18352e; background: #f5f8f3; }
+* { box-sizing: border-box; }
+body { margin: 0; overflow-wrap: anywhere; }
+header, main, footer { max-width: 52rem; margin: auto; padding: 1.25rem 1.5rem; }
+header { border-bottom: 1px solid #ccd9cf; }
+main { min-height: 60vh; }
+footer { border-top: 1px solid #ccd9cf; font-size: .9rem; }
+a { color: #176344; text-underline-offset: .18em; overflow-wrap: anywhere; }
+a:hover { text-decoration-thickness: .15em; }
+a:focus-visible { outline: 3px solid #8d5200; outline-offset: 4px; }
+nav { display: flex; flex-wrap: wrap; gap: .6rem 1.3rem; margin-block: .75rem; }
+h1, h2 { line-height: 1.25; overflow-wrap: anywhere; }
+h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); }
+.brand { font-weight: 700; text-decoration: none; }
+.notice { border-left: .3rem solid #9a5d00; background: #fff1d4; padding: 1rem; }
+.meta, .hash { color: #3b534a; }
+.hash { overflow-wrap: anywhere; font-size: .85rem; }
+.legal-text { white-space: pre-wrap; overflow-wrap: anywhere; font: inherit; margin-block: 2rem; }
+li { margin-block: .6rem; }
+.skip { position: absolute; left: -10000px; }
+.skip:focus { left: 1rem; top: 1rem; padding: .5rem; background: white; }
+@media (max-width: 480px) { header, main, footer { padding: 1rem; } }
+@media print {
+  :root { font-size: 11pt; color: black; background: white; }
+  header, nav, .skip { display: none; }
+  main, footer { max-width: none; padding: 0; }
+  a { color: black; }
+  h1, h2 { break-after: avoid; }
+  .notice { border: 1px solid black; background: white; }
+  .legal-text { orphans: 3; widows: 3; }
+  @page { margin: 18mm; }
+}

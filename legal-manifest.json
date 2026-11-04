@@ -1,0 +1,55 @@
+{
+  "archives": [
+    {
+      "contentHash": "dfa1d6970c89745c8696622d0c4c496b7f82bac7858039f19658bd683e8982bd",
+      "documentId": "privacy_policy_ru",
+      "effectiveDate": "2026-11-03",
+      "path": "archive/privacy/2026-11-03.2/index.html",
+      "status": "PUBLIC_DRAFT_FOR_REVIEW",
+      "title": "Политика конфиденциальности",
+      "version": "2026-11-03.2"
+    },
+    {
+      "contentHash": "68ca067ea3f798aa7020a2872a35f15271e15ebda01a14230cb80b4b3187c6fe",
+      "documentId": "user_agreement_ru",
+      "effectiveDate": "2026-11-03",
+      "path": "archive/terms/2026-11-03.2/index.html",
+      "status": "PUBLIC_DRAFT_FOR_REVIEW",
+      "title": "Пользовательское соглашение",
+      "version": "2026-11-03.2"
+    }
+  ],
+  "documents": [
+    {
+      "contentHash": "68ca067ea3f798aa7020a2872a35f15271e15ebda01a14230cb80b4b3187c6fe",
+      "documentId": "user_agreement_ru",
+      "effectiveDate": "2026-11-03",
+      "path": "terms/index.html",
+      "status": "PUBLIC_DRAFT_FOR_REVIEW",
+      "title": "Пользовательское соглашение",
+      "version": "2026-11-03.2"
+    },
+    {
+      "contentHash": "dfa1d6970c89745c8696622d0c4c496b7f82bac7858039f19658bd683e8982bd",
+      "documentId": "privacy_policy_ru",
+      "effectiveDate": "2026-11-03",
+      "path": "privacy/index.html",
+      "status": "PUBLIC_DRAFT_FOR_REVIEW",
+      "title": "Политика конфиденциальности",
+      "version": "2026-11-03.2"
+    }
+  ],
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "README.md": "b3ebc1e603e3234eda7ba23f6e8ce936310e1203c6953d011c699746f6fe786b",
+    "archive/index.html": "d5c61702bd03de888d7d26f568dcea004a5ea66ccceb4fba2ee6f6f63cf72f94",
+    "archive/privacy/2026-11-03.2/index.html": "f9285908fd884a025036fc6b43745af1105101f3e728e11f8e82a6a8450f06d8",
+    "archive/terms/2026-11-03.2/index.html": "2cc38b5c52f61bf9b39e719411dbb660f74622660175ffcbe899b59443fa1539",
+    "assets/site.css": "f159ac8616d96f0102b4049d5a79272708f030782c9e28d08e5c4018d260ac93",
+    "index.html": "9c2d78b4ab39e5741f449cc94860422ee5c19d3b5fe68181ebf4b2346148ed86",
+    "privacy/index.html": "17f874f008073fa699662c4914d0635f273f4939a8e2efbfaba2612195cd7b52",
+    "terms/index.html": "5e31395dbc7d9ace6f7d032079d66722c77d508a85a3f546395168755ecc4bb1"
+  },
+  "publicationStatus": "PUBLIC_DRAFT_FOR_REVIEW",
+  "schemaVersion": 1
+}
