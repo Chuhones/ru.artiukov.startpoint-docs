@@ -19,6 +19,15 @@
       "version": "2026-11-05.1"
     },
     {
+      "contentHash": "d21586a4ba8c8255d7410c6ad5d58c8bb8afb5b5af02b84d4aa101442b23327a",
+      "documentId": "privacy_policy_ru",
+      "effectiveDate": "2026-11-06",
+      "path": "archive/privacy/2026-11-06.1/index.html",
+      "status": "VERIFIED_FOR_PUBLICATION",
+      "title": "Политика конфиденциальности",
+      "version": "2026-11-06.1"
+    },
+    {
       "contentHash": "68ca067ea3f798aa7020a2872a35f15271e15ebda01a14230cb80b4b3187c6fe",
       "documentId": "user_agreement_ru",
       "effectiveDate": "2026-11-03",
@@ -48,26 +57,27 @@
       "version": "2026-11-04.2"
     },
     {
-      "contentHash": "5eaff29e5f883b3c93f5e3a08ce069174b26a7a5f38272bd931351e791c77ee2",
+      "contentHash": "d21586a4ba8c8255d7410c6ad5d58c8bb8afb5b5af02b84d4aa101442b23327a",
       "documentId": "privacy_policy_ru",
-      "effectiveDate": "2026-11-05",
+      "effectiveDate": "2026-11-06",
       "path": "privacy/index.html",
       "status": "VERIFIED_FOR_PUBLICATION",
       "title": "Политика конфиденциальности",
-      "version": "2026-11-05.1"
+      "version": "2026-11-06.1"
     }
   ],
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "README.md": "43e9906ded98036fad4f7cfb5ead78f18a76831989a281380557ae7f7ce5965e",
-    "archive/index.html": "87d5e10c73f1b3a0217e358cd202c8ff418d26b2764006b53c0a6389eaa8bef3",
+    "archive/index.html": "0dfd62994a51cb4a4467442edf71e2d56709f1ac4c5aa58a954c655a0a69d9ad",
     "archive/privacy/2026-11-03.2/index.html": "f9285908fd884a025036fc6b43745af1105101f3e728e11f8e82a6a8450f06d8",
     "archive/privacy/2026-11-05.1/index.html": "2b49ece58550f105be725bc2763c0b82edbbbd042be56e7c83ba1430ca577606",
+    "archive/privacy/2026-11-06.1/index.html": "cb3e7981ca1b2eb566e0056f993cd2f22e681313573b83c88f784692d3297d13",
     "archive/terms/2026-11-03.2/index.html": "2cc38b5c52f61bf9b39e719411dbb660f74622660175ffcbe899b59443fa1539",
     "archive/terms/2026-11-04.2/index.html": "4506515f6f0c35db8b0c08fad4c542fd2c9129e5f55095ba3637e315c4e2bd60",
     "assets/site.css": "bc405a447e7f9ad2aa3efb250d6b1c9a8fe4357f7568c6605b12ce28d3569b85",
     "index.html": "2ca42b4136e1fda6074d646a6397c91e0d717e48fce16c557be42ae16fa339e0",
-    "privacy/index.html": "88e37d3c1adfdeb8fb77a5effcc4f8b39d4209276b7c5a4df6a886e3e9a70150",
+    "privacy/index.html": "5c8d18fc5033f776ff6a4d83cae7788095d007313f466d2f609b4a769f02bc82",
     "terms/index.html": "a9e4adbb0a6bdaf4e2afc4f9b2c698f7f412b078924cb5a9f3f8c41c35f2921b"
   },
   "publicationStatus": "VERIFIED_FOR_PUBLICATION",
