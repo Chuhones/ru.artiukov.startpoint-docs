@@ -21,18 +21,18 @@
   ],
   "documents": [
     {
-      "contentHash": "b9a8bde1a0dfb0ab3a41718f2bdbf9027a074557d6cfe46600d9dd95d1c68d73",
+      "contentHash": "d04096f4d01ccfe6fe98468f98af5bbb80a97f780b7780c313e95e901b3537ba",
       "documentId": "user_agreement_ru",
-      "effectiveDate": "2026-11-06",
+      "effectiveDate": "2026-11-07",
       "path": "terms/index.html",
       "status": "APPROVED_FOR_PUBLICATION",
       "title": "Пользовательское соглашение",
       "version": "1.0.0"
     },
     {
-      "contentHash": "7f3ddb86841a6e161cf71b202dda731acb1a4713916f9e7851c742993c894543",
+      "contentHash": "083fe1ad316a2a31ba95d8ef1763c2f37facd730128f8774ec24a67a751a899d",
       "documentId": "privacy_policy_ru",
-      "effectiveDate": "2026-11-06",
+      "effectiveDate": "2026-11-07",
       "path": "privacy/index.html",
       "status": "APPROVED_FOR_PUBLICATION",
       "title": "Политика конфиденциальности",
@@ -47,8 +47,8 @@
     "archive/terms/2026-11-03.2/index.html": "2cc38b5c52f61bf9b39e719411dbb660f74622660175ffcbe899b59443fa1539",
     "assets/site.css": "bc405a447e7f9ad2aa3efb250d6b1c9a8fe4357f7568c6605b12ce28d3569b85",
     "index.html": "7e5f6831915089074e79ede05550b66aa377ac05d65e319d4042728c4c7a614f",
-    "privacy/index.html": "8f4ec7d4fee6269ab044af0240b0d8f38eb6757f4e270e253f6bffc87ebef9dd",
-    "terms/index.html": "ce66775a78a938c6dce25db5bd9881e50615f24a9813f0e0e79d13248bc5a791"
+    "privacy/index.html": "b631d0c490f643b62260d94abd92a4a0f0b465ba2b6a5513a4a6029077bc2f69",
+    "terms/index.html": "fc4c433cbde16d20800e8284d12ca9a5f9f3af6b4565d1e867a8a51828f80c55"
   },
   "publicationStatus": "APPROVED_FOR_PUBLICATION",
   "schemaVersion": 1
